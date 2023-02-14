@@ -1,0 +1,5 @@
+1. Curicullum learning  
+2. Ensemble strategy 
+3. Financial Sentimnet
+4. MARL trying to make profits on several cryptocurrency (every agent is trying to be cooperative)
+
