@@ -1,4 +1,4 @@
-# Project_RL
+# 🤖 Crypto_RL 🤖
 
 #### ALGO:
 
